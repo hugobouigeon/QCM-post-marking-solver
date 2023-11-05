@@ -22,7 +22,7 @@ Inference functions make predictions on what the actual answers are. They only r
 
 Evaluation and visualization functions can be used to evaluate predictions.
 
-Correction functions are an essential part of the algorithm. Predictions made by he algorithms mentioned above can have some errors. The correction function try_changes tweeks the initial guess make it match with student scores / answer sheets. It implements a basic evolutionary algorithm that tries to find the right answer. This usualy works as long as the initial guess is almost correct (only a few questions have wrong answers associated to them). Given anough students which are answering at random, this step may not be necessary.
+Correction functions are an essential part of the algorithm. Predictions made by he algorithms mentioned above can have some errors. The correction function try_changes tweeks the initial guess make it match with student scores / answer sheets. It implements a basic evolutionary algorithm that tries to find the right answer. This usually works as long as the initial guess is almost correct (only a few questions have wrong answers associated to them). Given anough students which are answering at random, this step may not be necessary.
 
 The draft.ipynb contains all of these functions and some variants which may improve some of the results. Code can be executed there.
 
