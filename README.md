@@ -36,6 +36,8 @@ The algorithm runs within a few seconds (gets slower with the mmount of student 
 
 ## Visual
 
+Here are some visuals of how the alorithm approximates answers. Each row is a question, the right answer is marked by a white square. Left are the probabilities of each answer being right (lighter squares are more liquely to be the right answer), the center shows the ground truth and on the right is shown how many questions are correctly guessed sofar (it turns all read when all answers have been found though).
+
 ![Alt text](<solver gif 1.gif>)
 ![Alt text](<solver gif 2.gif>)
 
