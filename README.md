@@ -10,7 +10,7 @@ I assume the following :
 - Each question has n different possible solutions (by default, n=4)
 - Each question has a unique answer
 - there are m students partaking in the quiz (by default, m = 100)
-- Students have a given probability to know an answer, and answer at random if they don't. (by default, a student knows 25% of the answers). "inteligence" is spread among students following a gaussian distribution.
+- Students have a given probability to know an answer, and answer at random if they don't. (by default, a student knows 25% of the answers). "intelligence" is spread among students following a gaussian distribution.
 
 ## How to use
 
